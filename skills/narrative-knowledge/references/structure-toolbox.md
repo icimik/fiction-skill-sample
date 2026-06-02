@@ -1,6 +1,6 @@
 # 结构工具箱
 
-> ⚠️ **预览版** — 当前内容为精选预览，获取完整版请[联系我们](https://github.com/icimik/fiction-skill-sample/issues/new?labels=Request+for+Quotation)。
+> ⚠️ **预览版** — 当前内容为精选预览，获取完整版请[联系我们](https://github.com/icimik/fiction-skill-sample/issues/new?template=quotation.yml)。
 
 本文件收纳可复用的叙事结构与落地方法。用途不是替代 `plot.md`、`narrative.md`、`genre.md`，而是把"每种结构怎么用"固定成可查的参考层。
 

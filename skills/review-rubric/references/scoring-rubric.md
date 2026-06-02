@@ -1,6 +1,6 @@
 # 统一评分标准 v1
 
-> ⚠️ **预览版** — 当前内容为精选预览，获取完整版请[联系我们](https://github.com/icimik/fiction-skill-sample/issues/new?labels=Request+for+Quotation)。
+> ⚠️ **预览版** — 当前内容为精选预览，获取完整版请[联系我们](https://github.com/icimik/fiction-skill-sample/issues/new?template=quotation.yml)。
 
 ## 评分方式
 

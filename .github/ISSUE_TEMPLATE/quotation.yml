@@ -1,0 +1,55 @@
+name: 订购单
+description: 快速提交定制意向，我们将尽快与您联系
+title: "[订购] "
+labels: ["Request for Quotation"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        感谢您对虚构文学创作框架的关注！
+        请留下您的联系方式与基本信息，我们将尽快与您沟通定制方案。
+
+  - type: input
+    id: contact
+    attributes:
+      label: 联系方式 *
+      description: 邮箱、微信或其他方便联系您的方式
+      placeholder: your@email.com
+    validations:
+      required: true
+
+  - type: input
+    id: genre
+    attributes:
+      label: 写作类型
+      description: 您计划创作的题材类型
+      placeholder: 例如：都市异能、古风言情、悬疑推理
+    validations:
+      required: false
+
+  - type: input
+    id: platform
+    attributes:
+      label: 发布平台
+      description: 您计划在哪个平台发布
+      placeholder: 例如：起点中文网、晋江、实体出版
+    validations:
+      required: false
+
+  - type: input
+    id: target-audience
+    attributes:
+      label: 目标读者
+      description: 您的主要读者群体
+      placeholder: 例如：18-30 岁女性、全年龄男性向
+    validations:
+      required: false
+
+  - type: textarea
+    id: brief
+    attributes:
+      label: 需求简介
+      description: 简要描述您的项目和期望框架帮助解决的问题
+      placeholder: 一句话即可，例如：需要一套适用于网文连载的节奏控制与人设维护方案
+    validations:
+      required: false

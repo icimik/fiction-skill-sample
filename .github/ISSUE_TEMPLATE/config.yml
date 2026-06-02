@@ -1,5 +1,11 @@
 blank_issues_enabled: false
 contact_links:
-  - name: 查看预览版文档
+  - name: 📖 查看预览版文档
     url: https://author.kimmy.fun
     about: 先浏览预览版文档，了解框架能力后再提交定制需求
+  - name: 📋 快速订购（简表）
+    url: https://github.com/icimik/fiction-skill-sample/issues/new?template=quotation.yml
+    about: 只需填写联系方式即可提交意向
+  - name: 📝 定制需求（详表）
+    url: https://github.com/icimik/fiction-skill-sample/issues/new?template=customization.yml
+    about: 填写详细的创作需求，获取精准定制方案

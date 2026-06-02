@@ -1,6 +1,6 @@
 # 反翻译腔模式与正面特征
 
-> ⚠️ **预览版** — 当前内容为精选预览，获取完整版请[联系我们](https://github.com/icimik/fiction-skill-sample/issues/new?labels=Request+for+Quotation)。
+> ⚠️ **预览版** — 当前内容为精选预览，获取完整版请[联系我们](https://github.com/icimik/fiction-skill-sample/issues/new?template=quotation.yml)。
 
 生成中文正文时的对照检查手册。执行流程见 `checking-process.md`。
 
