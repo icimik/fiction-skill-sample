@@ -1,5 +1,7 @@
 # MBTI 读者评审系统 v1
 
+> ⚠️ **预览版** — 当前内容为精选预览，获取完整版请[联系我们](https://github.com/icimik/fiction-skill-sample/issues/new?labels=Request+for+Quotation)。
+
 ## 目的
 
 本系统用于为虚构文学作品提供一组可复用的"读者原型视角"，帮助编辑与作者从不同阅读偏好出发审视作品的接受度、风险点与修订方向。

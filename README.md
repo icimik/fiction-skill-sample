@@ -4,7 +4,7 @@
 
 完整版本包含 13 个子 skill、84 个文件，覆盖从立项到出版的全生命周期编排、子任务路由、治理机制、发布脚本与全部文档模板。
 
-> 如需了解完整的编排流程、子 skill 触发逻辑与协作机制，请联系我们获取完整版文档。
+> 如需了解完整的编排流程、子 skill 触发逻辑与协作机制，请[联系我们](https://github.com/icimik/fiction-skill-sample/issues/new?labels=Request+for+Quotation)获取完整版文档。
 
 ---
 
