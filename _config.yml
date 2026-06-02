@@ -1,0 +1,11 @@
+theme: jekyll-theme-primer
+
+github:
+  private: false
+  source:
+    branch: "master"
+    path: "/"
+  repository_url: "https://github.com/icimik/fiction-skill-sample"
+
+title: "虚构文学创作框架"
+description: "AI 驱动的虚构文学全生命周期创作工具 — 从立项到出版的一站式解决方案"
